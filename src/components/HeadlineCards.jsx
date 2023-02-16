@@ -14,7 +14,7 @@ function HeadlineCards() {
         </div>
         <img
         className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
-          src="https://images.pexels.com/photos/2271107/pexels-photo-2271107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          src="https://www.shutterstock.com/shutterstock/photos/2162323019/display_1500/stock-photo-chapati-with-bean-curry-made-from-beans-indian-food-plate-or-thali-2162323019.jpg"
           alt="/"
         />
       </div>
@@ -29,7 +29,7 @@ function HeadlineCards() {
         </div>
         <img
         className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
-          src="https://images.pexels.com/photos/2271107/pexels-photo-2271107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          src="https://media.istockphoto.com/id/637885844/photo/traditional-african-food-ugali-fish-and-greens.jpg?s=1024x1024&w=is&k=20&c=xs0FsNg0k1dba0mruSOU1kPFnTkPfLWyTC9Focf3Bc0="
           alt="/"
         />
       </div>{/* Card */}
@@ -42,7 +42,7 @@ function HeadlineCards() {
         </div>
         <img
         className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
-          src="https://images.pexels.com/photos/2271107/pexels-photo-2271107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          src="https://media.istockphoto.com/id/1334473708/photo/delicious-fergana-pilaf-uzbek-favorite-dish-on-wooden-background.jpg?s=1024x1024&w=is&k=20&c=Bg46QfiWC3mWK0CgkbH8zbyW87s5O6ckPMUpXDsQVZ0="
           alt="/"
         />
       </div>
