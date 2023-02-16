@@ -8,8 +8,8 @@ function HeadlineCards() {
       <div className="relative rounded-xl">
         {/* Overlay */}
         <div className="absolute w-full h-full bg-black/50 rounded-xl text-white">
-          <p className="font-bold text-2xl px-2 pt-4"> Sun's Out, BOGO's Out</p>
-          <p className="px-2">Through 8/26</p>
+          <p className="font-bold text-2xl px-2 pt-4"> Chapo Beans</p>
+          <p className="px-2">Available 24/7</p>
           <button className="border-white bg-white text-black mx-2 absolute bottom-4">Order Now</button>
         </div>
         <img
@@ -36,8 +36,8 @@ function HeadlineCards() {
       <div className="relative rounded-xl">
         {/* Overlay */}
         <div className="absolute w-full h-full bg-black/50 rounded-xl text-white">
-          <p className="font-bold text-2xl px-2 pt-4"> Sun's Out, BOGO's Out</p>
-          <p className="px-2">Through 8/26</p>
+          <p className="font-bold text-2xl px-2 pt-4"> Pilau Nazi</p>
+          <p className="px-2">Affordable</p>
           <button className="border-white bg-white text-black mx-2 absolute bottom-4">Order Now</button>
         </div>
         <img
